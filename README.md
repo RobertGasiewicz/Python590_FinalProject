@@ -12,7 +12,7 @@ Contributions:
 
 Rob Gasiewicz - Finding optimum k using Elbow Method
 
-Abhishek Babuji - Data Variation analysis, Normalization and k-Means
+Abhishek Babuji - Data Variation analysis, k-Means with Normalization 
 
 
 
