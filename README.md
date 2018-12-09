@@ -15,7 +15,13 @@ Rob Gasiewicz - Finding optimum k using Elbow Method
 Abhishek Babuji - Data Variation analysis, k-Means with Normalization 
 
 
+# Phase 3
 
+Contributions:
+
+Rob Gasiewicz - Running k-means cluster with changed parameters, Report
+
+Abhishek Babuji - Creating the function that generates the error rate
 
 
 
